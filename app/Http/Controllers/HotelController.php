@@ -38,3 +38,4 @@ class HotelController extends Controller
         return response()->json(null, 204);
     }
 }
+
